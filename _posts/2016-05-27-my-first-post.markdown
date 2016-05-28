@@ -2,7 +2,7 @@
 layout: post
 title:  "First Post!"
 date:   2016-05-27 17:43
-categories: jekyll update
+categories: update
 ---
 Hello!
 
